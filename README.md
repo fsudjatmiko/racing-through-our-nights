@@ -5,5 +5,5 @@ This game is NOT optimized and it's fully made with TurboC's graphics.h library 
 
 [Documentations are here](https://raw.githubusercontent.com/mikrll/racing-through-our-nights/refs/heads/main/Journal_5024221011.pdf)
 
-[!alt text](https://raw.githubusercontent.com/mikrll/racing-through-our-nights/refs/heads/main/mainmenu.gif)
+![alt text](https://github.com/mikrll/racing-through-our-nights/blob/main/mainmenu.gif?raw=true)
 
