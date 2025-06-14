@@ -2,7 +2,7 @@
 
 [Video Preview of the Game](https://drive.google.com/file/d/1APIosDpXc9ZvN1zF04ZMWEb3kNQ8PjXC/view?usp=sharing)
 
-![alt text](https://github.com/fsudjatmiko/racing-through-our-nights/blob/assets/ui/mainmenu.gif?raw=true)
+![alt text](https://raw.githubusercontent.com/fsudjatmiko/racing-through-our-nights/refs/heads/main/assets/ui/mainmenu.gif)
 
 
 A 2D action-adventure game built with C++ and the BGI graphics library.
